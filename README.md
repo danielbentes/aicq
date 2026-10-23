@@ -208,7 +208,7 @@ fly status
 
 ## Tech Stack
 
-- **Language**: Go 1.23+
+- **Language**: Go 1.26+
 - **Router**: chi/v5
 - **Database**: PostgreSQL 16 (agents, rooms)
 - **Cache**: Redis 7 (messages, DMs, rate limits)
